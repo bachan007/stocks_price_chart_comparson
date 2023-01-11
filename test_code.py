@@ -28,4 +28,4 @@ def draw_lines(stock_list):
 
 it_stock_list = ['TECHM.NS','WIPRO.NS','TCS.NS','INFY.NS','HCLTECH.NS','COFORGE.NS','LTI.NS']
 
-draw_lines(['TECHM.NS','WIPRO.NS'])
+draw_lines(it_stock_list)
